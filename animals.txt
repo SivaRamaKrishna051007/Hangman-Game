@@ -97,3 +97,4 @@ anteater
 armadillo
 serval
 caracal
+tapir
