@@ -96,3 +96,5 @@ gooseplum
 rukam
 ximenia
 durian
+langsat
+medlar
